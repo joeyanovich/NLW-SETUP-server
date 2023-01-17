@@ -19,5 +19,8 @@
   "homepage": "https://github.com/joeyanovich/NLW-SETUP-server#readme",
   "dependencies": {
     "fastify": "^4.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
   }
 }
